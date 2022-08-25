@@ -1,5 +1,4 @@
 <div align="center"> <h1> Tentimishev Nazar </h1> </div>
-[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineer)](https://git.io/typing-svg)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10TM&layout=compact&theme=tokyonight" />
