@@ -1,7 +1,7 @@
 <div align="center"> <h1> Tentimishev Nazar </h1> </div>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10TM&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10tm&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
