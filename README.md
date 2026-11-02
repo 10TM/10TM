@@ -7,16 +7,12 @@
 ## 📊 GitHub-статистика
 
 <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=10TM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10TM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+    <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=10TM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=10TM&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 🛠️ Навыки и технологии
@@ -45,12 +41,4 @@
         <img src="https://thumbs.dreamstime.com/b/linkedin-social-media-icon-logo-vector-element-white-background-social-media-logos-suitable-mobile-apps-web-apps-print-142153162.jpg" alt="LinkedIn" width="50" height="50" />
     </a>
     <a href="https://www.instagram.com/14ll04ll01/">
-        <img src="https://w7.pngwing.com/pngs/789/603/png-transparent-computer-icons-social-media-logo-social-media-black-thumbnail.png" alt="Instagram" width="50" height="50" />
-    </a>
-    <a href="https://t.me/TnK2001">
-        <img src="https://w7.pngwing.com/pngs/508/998/png-transparent-telegram-computer-icons-logo-android-angle-triangle-monochrome-thumbnail.png" alt="Telegram" width="50" height="50" />
-    </a>
-    <a href="mailto:nazar.reign.nr@gmail.com">
-        <img src="https://w7.pngwing.com/pngs/838/377/png-transparent-gmail-computer-icons-logo-email-gmail-angle-text-rectangle-thumbnail.png" alt="Email" width="50" height="50" />
-    </a>
-</div>
+        <img src="https://w7.pngwing.com/pngs/789/603/png
